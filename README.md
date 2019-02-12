@@ -12,6 +12,8 @@ Navigate to [App Academy Open][open-url] and sign up for a free account. All you
 
 The rest of the courses from our legendary Full-Stack curriculum are available to you from the moment you sign up. To switch, simply click the 'Course Outline' at the top of the page. The menu should have a 'Switch' button which will list all available courses.
 
+[open-url]: https://open.appacademy.io/
+
 ### Courses
 
 * Welcome to Coding
