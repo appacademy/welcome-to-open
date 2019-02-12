@@ -16,7 +16,7 @@ The rest of the courses from our legendary Full-Stack curriculum are available t
 
 [open-url]: https://open.appacademy.io/
 
-### Courses
+### Free Courses
 
 * Welcome to Coding
 * Intro to Programming
